@@ -24,7 +24,7 @@
     margin-left: 15px;
 }
 
-.fa.fa-check-circle{
+.fa.fa-check-circle-o{
     margin-left: 15px;
 }
 
@@ -37,4 +37,29 @@
 #copyright{
     margin-left: 325px;
     color: gray;
+}
+
+/* ------ Footer ------*/
+
+
+
+/* ----- Footer ----- */
+.footer {
+    width: 100%;
+    padding: 30px 0;
+    margin-left: 25px;
+}
+.icons .fa {
+    margin: 0 8px;
+    cursor: pointer;
+    padding: 3px 0;
+    font-size: 20px;
+}
+
+.fa-desktop {
+    color: blue;
+}
+
+#desktop{
+    margin-left: 170px;
 }
