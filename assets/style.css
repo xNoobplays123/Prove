@@ -1,0 +1,40 @@
+* {
+    font-family: Arial;
+    margin-left: 125px;
+}
+
+#title{
+    color: orange;
+    font-size: 70px;
+    margin: 20 0;
+    margin-left: 120px;
+}
+
+#text{
+    font-size: 25px;
+    color: SlateGray;
+}
+
+#heading{
+    color: orange;
+    font-size: 35px;
+}
+
+.fa.fa-mug-saucer{
+    margin-left: 15px;
+}
+
+.fa.fa-check-circle{
+    margin-left: 15px;
+}
+
+#list{
+    margin-left: 12px;
+    font-size: 25px;
+    color: SlateGray;
+}
+
+#copyright{
+    margin-left: 325px;
+    color: gray;
+}
